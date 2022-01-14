@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://angry.oneone.digital/flower-7v1_sitemap.xml
